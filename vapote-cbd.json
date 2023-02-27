@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nom": "BATTERIE PUFF'AIR by CCELL",
+        "prix": 36,
+        "description": "La PUFF'AIR BATTERY de CCELL est une batterie de haute qualité, auto-réglable avec des réglages de température optimaux. Disponible en deux couleurs : bleu et rose, la batterie a une capacité de 500 mAh et des dimensions de 63.0H × 28.8W × 18.0D (mm). Elle est fabriquée en alliage d'aluminium et possède un filetage standard 510. La PUFF' AIR possède une connexion magnétique. elle dispose également d'un indicateur LED intégré et d'une fonction de chargement par micro-USB. Avec son design élégant, cette batterie vous permettra de vapoter en toute discrétion n’importe où !",
+        "image": "images/vapote/puffair.png",
+        "disponibilite": true
+    },
+    {
+        "id": 2,
+        "nom": "E-Pen v2",
+        "prix": 50,
+        "description": "'E-Pen CBD SHOP FRANCE By DS Company est la batterie idéale pour vaper du CBD. Il est équipé d'un voltage relativement faible afin de ne pas brûler, et de garantir la qualité de l'extrait de chanvre pour profiter des effets apaisants et relaxants de façon optimale et ainsi bénéficier de l'effet d'entourage. De plus, il possède un design fin et élégant, discret, et et avec bouton d'activation pour une utilisation optimale. ",
+        "image": "images/vapote/epen.png",
+        "disponibilite": false
+    },
+    {
+        "id": 3,
+        "nom": "Cartouche Vape CAPONE KUSH",
+        "prix": 93,
+        "description": "Cette cartouche de 500 mg vous fournira au moins 250 mg de CBD. Elle est composée à 100% de wax de CBD 50%. Un produit Full Spectrum qui contient tous les cannabinoïdes, terpènes et flavonoïdes présents dans l'extrait de fleur de chanvre CAPONE KUSH Ainsi, vous pourrez profiter des effets apaisants et relaxants du CBD de façon optimale et ainsi bénéficier de l'effet d'entourage. La technologie de cartouche de wax 50% CBD SHOP FRANCE possède un atomiser en céramique et un réservoir en verre qui garantissent la qualité et la conservation du produit, ainsi qu'une expérience premium.",
+        "image": "images/vapote/capone.png",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Cartouche Live Resin Vape CBD",
+        "prix": 108,
+        "description": "La première Live Resin CBD en Europe ! Ce produit est conçu à partir de 100% d'extraction de fleurs de la variété Skittlez. La Live Resin CBD Shop France utilise des fleurs fraîches qui sont ensuite surgelées (cryogénisées). Il s'agit d'une extraction de cannabinoïdes dits \"frais\" et verts, qui sont sous la forme \"a\" (acides) à savoir CBDa, CBGa, CBNa, etc... Leur particularité est qu'ils se transforment au moment de la combustion, qui crée une décarboxylation qui augmente considérablement le pourcentage ! Produit hautement aromatique, effets intenses, obtenu sans terpène synthétique. Tous nos produits sont garantis sans cristaux et composés de fleurs n'ayant subi aucun abaissement au solvant",
+        "image": "images/vapote/live-resin.png",
+        "disponibilite": true
+    },
+    {
+        "id": 5,
+        "nom": "Cartouche Northern lights Vape CBD",
+        "prix": 25,
+        "description": "Northern Lights VAPE CBD : Un produit à spectre complet qui contient tous les cannabinoïdes, terpènes et flavonoïdes présents dans l'extrait de fleur de chanvre Northern Lights. Contrairement aux autres vape que nous proposons, celle-ci contient les molécules de CBN et de CBC en plus forte concentration . Profitez des effets apaisants et relaxants du CBD avec cette cartouche très puissante. La technologie de la cartouche dispose d'un atomiseur en céramique et d'un réservoir en verre qui garantissent la qualité et la conservation du produit, ainsi qu'une expérience premium. Cette cartouche de vape a été fabriquée à partir de la variété de fleur Northern Lights. Extraits de fleurs de la plante de cannabis légale, y compris CBD, CBC, CBN et CBG. ",
+        "image": "images/vapote/nothern.png",
+        "disponibilite": true
+    },
+    {
+        "id": 6,
+        "nom": "E-Liquide CBD Shop France 300 mg",
+        "prix": 49,
+        "description": "E-Liquide CBD 300mg full spectrum ou spectre complet est obtenu uniquement avec extrait de chanvre et non pas depuis les graines de chanvre ou autres composés ! Si vous souhaitez profiter des effets et arômes du CBD en vapotant, ce e-liquide est parfait pour vous. De plus, nous choisissons nos produits sans aucun rajout de terpènes ni cristaux de CBD.",
+        "image": "images/vapote/eliquide-300.png",
+        "disponibilite": true
+    },
+    {
+        "id": 7,
+        "nom": "E-Liquide CBD Shop France 500 mg",
+        "prix": 59,
+        "description": "E-Liquide CBD 500mg full spectrum ou spectre complet est obtenu uniquement avec extrait de chanvre et non pas depuis les graines de chanvre ou autres composés ! Si vous souhaitez profiter des effets et arômes du CBD en vapotant, ce e-liquide est parfait pour vous. De plus, nous choisissons nos produits sans aucun rajout de terpènes ni cristaux de CBD.",
+        "image": "images/vapote/eliquide-500.png",
+        "disponibilite": true
+    }
+]

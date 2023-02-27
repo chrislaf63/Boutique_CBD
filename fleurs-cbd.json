@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nom": "Amnésia",
+        "culture": "Indoor",
+        "prix": 10,
+        "description": "La superbe Amnésia est de retour pour les amateurs. Cette fleur de culture indoor est vraiment exceptionnelle. Elle possède des buds bien compactes, bien manucurées avec un beau calibre. Elle arbore une belle couleur verte. Cette fleur nous gratifie d'une superbe cristallisation naturelle, et dégage une forte odeur. Vous aimez les fleurs puissantes à l'odeur divine ? L'Amnésia fera le bonheur de tous.",
+        "image": "images/fleurs/amnesia.jpg",
+        "disponibilite": true
+    },
+    {
+        "id": 2,
+        "nom": "Jack Herer",
+        "culture": "Indoor",
+        "prix": 10,
+        "description": "La Jack Herer est une superbe fleur de culture indoor avec une très très belle manucure et un coloris bicolore magnifique. Cette variété est une fleur de CBD 100% naturelle et légale, très haut de gamme qui va vous faire voyager. En la découvrant, vous serez étonné(e) par sa qualité supérieure, son aspect propre et unique. Vous profiterez de grosses buds compactes, légères et bien résineuses pour un effet relaxant et décontractant. À tester d'urgence !",
+        "image": "images/fleurs/jack-herrer.png",
+        "disponibilite": false
+    },
+    {
+        "id": 3,
+        "nom": "White Marley",
+        "culture": "Indoor",
+        "prix": 10,
+        "description": "Profitez de la nouveauté White Marley, en exclusivité chez CBD Shop France ! Cette superbe variété indoor est très rare dans le monde du CBD. Vous apprécierez ces buds compactes, ainsi que sa très belle manucure, et ses têtes bien régulières. Sa particularité est que c'est un produit très cristallisé d'apparence, mais qui est garanti sans cristaux de CBD conformément à la charte qualité CBD Shop France. Un magnifique produit en quantité limitée, qui vous procurera un regain d'énergie et de créativité. ",
+        "image": "images/fleurs/white-marley.png",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Cannatonic Indoor",
+        "culture": "Indoor",
+        "prix": 10,
+        "description": "La Cannatonic est une variété très réputée et reconnue dans le monde du cannabis, elle est à l'origine du mouvement du CBD en Europe. C'est donc tout naturellement que nous vous proposons notre nouvelle récolte de cette splendide variété. Une belle fleur indoor bien verte, aux notes orangées, proposée avec une manucure propre. Vous apprécierez cette nouvelle génétique Old School! Son odeur se décrit par des notes d'agrumes, son goût quant à lui est légèrement terreux, hérité de ses parents de souche \"kush\"! ",
+        "image": "images/fleurs/cannatonic-indoor.png",
+        "disponibilite": true
+    },
+    {
+        "id": 5,
+        "nom": "Harley Quinn",
+        "culture": "Greenhouse",
+        "prix": 8,
+        "description": "Appréciez la beauté de cette fleur greenhouse! La Harley Quinn est une fleur d'exception, de très belle qualité.",
+        "image": "images/fleurs/harley-quinn.png",
+        "disponibilite": true
+    },
+    {
+        "id": 6,
+        "nom": "Purple Haze",
+        "culture": "Greenhouse",
+        "prix": 8,
+        "description": "Voici la fleur CBD Purple Haze de notre serre ! Ce n'est pas une fleur de chanvre ordinaire - son éclat violet distinct fera que cette variété se démarquera de toutes les autres ! Les têtes de ces fleurs sont très légères, manucurées et compactes. Comme son nom l'indique, la Purple Haze a un éclat violet incomparable qui est attribué aux variations de température pendant la croissance de ces fleurs. Il est facile de voir pourquoi cette variété gagne en popularité parmi les utilisateurs expérimentés de CBD. Non seulement elles ont un aspect remarquable, Mais elles ont aussi un arôme fruité qui seras détendre vos sens. Cela vous permet d'expérimenter à la fois la beauté visuelle et aromatique de cette fleur de cannabis légal dans un ensemble inspirant.",
+        "image": "images/fleurs/purple-haze.png",
+        "disponibilite": true
+    },
+    {
+        "id": 7,
+        "nom": "Colombiana Haze",
+        "culture": "Outdoor",
+        "prix": 6,
+        "description": "La Colombiana Haze est une souche venue comme son nom l'indique d'Amérique du Sud. Avec sa génétique \"Haze\" cette variété vous rappellera les souches Old school de la fin des années 80. Son aspect typiquement Haze rend les buds vertes claires. Son odeur est semblable à de la résine de pin, boisée et parfumée, son goût sera épicé et légèrement fruité. Son effet sera énergisant et vous rendra créatif.",
+        "image": "images/fleurs/colombiana-haze.png",
+        "disponibilite": true
+    },
+    {
+        "id": 8,
+        "nom": "Grappe Fruit",
+        "culture": "Greenhouse",
+        "prix": 5,
+        "description": "La Grappe fruits est une sympathique variété greenhouse, et surtout l'une de nos variétés les plus fruitées. Elle vous plaira notamment par son aspect grains de raisin, et vous adorerez ses minis buds régulières et parfaitement calibrées ! Son effet sera énergisant et vous enivrera de bonheur, offrez vous un voyage au tropiques !",
+        "image": "images/fleurs/grappe-fruit.png",
+        "disponibilite": true
+    },
+    {
+        "id": 9,
+        "nom": "Grappe Herer",
+        "culture": "Greenhouse",
+        "prix": 5,
+        "description": "La Grappe Herer est une variété croisement entre une Grappe Fruit et une Jack Herer, qui permet de profiter d'arômes frais et légers, idéal pour l'été. Cette variété dégage une odeur légèrement acidulée qui pourrait vous faire penser aux agrumes. Il s'agit d'une variété greenhouse, proposée en petites buds. Un aspect grains de raisin, réguliers et parfaitement calibrés ! Idéale pour la journée, à la fois énergisante et relaxante, elle sera votre compagne de voyage cet été.",
+        "image": "images/fleurs/grappe-herer.png",
+        "disponibilite": true
+    },
+    {
+        "id": 10,
+        "nom": "Grappe Skunk",
+        "culture": "Greenhouse",
+        "prix": 5,
+        "description": "La Grappe Herer est une variété croisement entre une Grappe Fruit et une Skunk, qui permet de profiter d'arômes frais et léger, idéal pour l'été. Cette variété dégage une odeur légèrement acidulée qui pourrait vous faire penser aux agrumes. Il s'agit d'une variété greenhouse, proposée en petites buds. Un aspect grains de raisin, réguliers et parfaitement calibrés ! Idéale pour la journée, à la fois énergisante et relaxante, elle sera votre compagne de voyage cet été.",
+        "image": "images/fleurs/grappe-skunk.png",
+        "disponibilite": true
+    }
+]

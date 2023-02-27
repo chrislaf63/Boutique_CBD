@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nom": "SHAMPOING CARE CHANVRE ",
+        "prix": 25,
+        "description": "Avantage : shampoing adapté aux cheveux fins et fragiles qui assainit le cuir chevelu et les cheveux sans altérer leur équilibre naturel. Délicat et sensible sur les cheveux et le corps, y compris les parties les plus sensibles. L'huile essentielle de lavande purifie le cuir chevelu et apporte de la brillance. Les arômes délicats d'orange et de cannelle procurent une sensation de bien-être pour tous les sens. ",
+        "image": "images/cosmetiques/shampoing.png",
+        "disponibilite": true
+    },
+    {
+        "id": 2,
+        "nom": "Huile parfumée & CBD Douceur",
+        "prix": 35,
+        "description": "Découvrez notre huile parfumée à base de CBD. Une conception exclusive CBD Shop France ! Appliquée en massage régulier, cette huile aura un effet anti-stress et apaisant, idéal pour retrouver la sérénité, après une journée harassante. L'huile de CBD sera également idéale grâce à son effet décontractant, parfait pour un massage doux afin de se détendre rapidement. Les délicates odeurs de mandarine, bergamote et néroli viennent sublimer cette huile parfumée avec CBD naturel. Cette huile est 100% Bio et naturelle, garantie sans CBD synthétique ! ",
+        "image": "images/cosmetiques/huile-douceur.png",
+        "disponibilite": false
+    },
+    {
+        "id": 3,
+        "nom": "Huile parfumée & CBD Sportif",
+        "prix": 35,
+        "description": "L'huile de massage au CBD Sportif est une huile corporelle destinée aux pratiquants de sport professionnels, amateurs, assidus ou occasionnels. Courbatures ? Douleurs musculaires ? Cette huile appliquée en massage tonique sera parfaite après une bonne séance de sport pour décontracter les muscles et favoriser une meilleure récupération physique. Comme tout sportif qui donne tout à l'entraînement, profitez ensuite d'un moment de calme et de détente pour apaiser toutes les tensions musculaires liées à l'entraînement, décontracter votre corps et soulager les petites douleurs liées à vos trainings. Cette huile est 100% Bio et naturelle, et laissera une agréable odeur typique des solutions pour sportifs grâce à la présence de camphre, de gaulthérie et d'eucalyptus.",
+        "image": "images/cosmetiques/huile-sportif.png",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Baume Du Tigre CBD 450 mg",
+        "prix": 108,
+        "description": "3% de CBD (450 mg) Le fameux baume du tigre maintenant disponible dans sa toute dernière version - le Cannatiger. Le baume est enrichi en CBD et aide à soulager les courbatures et les douleurs. Appliquez le produit en petite quantité sur la zone douloureuse et remarquez la différence !",
+        "image": "images/cosmetiques/cannatiger.png",
+        "disponibilite": true
+    }
+]

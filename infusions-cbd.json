@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nom": "Défenses naturelles",
+        "prix": 16,
+        "description": "Remède naturel pour lutter contre les maux et les virus de l'hiver. Cette douce infusion est une découverte gustative équilibrée. Notre sélection de fleurs de CBD accompagne ce délicieux mélange de saveurs et vous fera pleinement profiter de ses bienfaits. Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqué en France.",
+        "image": "images/infusions/defenses-naturelles.png",
+        "disponibilite": true
+    },
+    {
+        "id": 2,
+        "nom": "Détox bio",
+        "prix": 16,
+        "description": "Cette infusion détox est dédiée pour effacer les effets des excès. Utilisée pour un usage quotidien, elle vous garantit légèreté et équilibre grâce au mélange de thé vert, maté et hibiscus. Notre sélection de fleurs de CBD accompagne ce délicieux mélange de saveurs et vous fera pleinement profiter de ses bienfaits. Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqués en France. ",
+        "image": "images/infusions/detox-bio.png",
+        "disponibilite": false
+    },
+    {
+        "id": 3,
+        "nom": "Douce nuit",
+        "prix": 16,
+        "description": " L'infusion parfaite pour une nuit paisible ou un moment de douceur, de détente et de relaxation. Cette infusion associe du rooibos, de la verveine et du tilleul. Notre sélection de fleurs de CBD accompagne ce délicieux mélange de saveurs afin de vous faire profiter pleinement de ses bienfaits. Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqués en France.",
+        "image": "images/infusions/douce-nuit.png",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Boost bio",
+        "prix": 16,
+        "description": "Période de surcharge de travail, entrée dans l'hiver, examen ou coup de barre ? Maté vert, ginkgo, guarana, un trio d'énergie ! Notre sélection de fleurs de CBD accompagne ce délicieux mélange de saveurs et vous fera pleinement profiter de ses bienfaits. Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqués en France.",
+        "image": "images/infusions/boost-bio.png",
+        "disponibilite": true
+    },
+    {
+        "id": 5,
+        "nom": "Citron bio",
+        "prix": 16,
+        "description": "Antioxydants naturels - Réduit le stress - Aide à la digestion. Les saveurs fruitées du citron jaune et vert jouent et s'allient à ce thé vert créant un mélange tonique à déguster à toute heure. La fleur de CBD accompagne ce délicieux mélange de saveurs pour profiter pleinement de ses bienfaits. Tous nos thés sont issus de l'agriculture biologique et fabriqués en France. ",
+        "image": "images/infusions/citron.png",
+        "disponibilite": true
+    },
+    {
+        "id": 6,
+        "nom": "Menthe bio",
+        "prix": 16,
+        "description": "Les feuilles de menthe parsèment ce thé vert Gunpowder afin de créer une boisson savoureuse et rafraîchissante. Il se savoure aussi bien chaud que glacé. La fleur de CBD accompagne ce délicieux mélange de saveurs pour profiter pleinement de ses bienfaits. Tous nos thés sont issus de l'agriculture biologique et fabriqués en France.",
+        "image": "images/infusions/menthe.png",
+        "disponibilite": true
+    },
+    {
+        "id": 7,
+        "nom": "Digest bio",
+        "prix": 16,
+        "description": "Une création parfaite sur toute la ligne pour se sentir plus léger après un repas ou tout au long de la journée. Notre sélection de fleurs de CBD accompagne ce délicieux mélange de saveurs et vous fera pleinement profiter de ses bienfaits. Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqués en France.",
+        "image": "images/infusions/digest.png",
+        "disponibilite": true
+    },
+    {
+        "id": 8,
+        "nom": "L'infusion de madame",
+        "prix": 16,
+        "description": "L'infusion de Madame CBD Shop France est une tisane aux parfums doux et délicats idéals pour vous accompagner dans tous les cycles de votre vie. Ce délicieux mélange fruité et floral accompagné de fleurs de CBD soigneusement sélectionnées vous permettra de profiter pleinement des effets tout en dégustant une boisson chaude agréable. Notez que toutes nos infusions se consomment aussi froide, pour un plaisir estival et une détente assurée. ",
+        "image": "images/infusions/madame.png",
+        "disponibilite": true
+    },
+    {
+        "id": 9,
+        "nom": "Infusion anti stress",
+        "prix": 16,
+        "description": "L'infusion Anti-Stress est une tisane douce et fruitée à consommer pour vous détendre et vous relaxer. Vous apprécierez très probablement cette infusion qui contient du rooibos, une thé au goût unique et qui ne contient pas de théine pour éviter l'effet stimulant. Cette infusion possède des arômes naturels fruités grâce à l'abricot, aux pommes et aux écorces d'agrumes. À consommer en fin d'après-midi ou le soir pour un retour au calme et limiter les effets du stress de la journée.",
+        "image": "images/infusions/antistress.png",
+        "disponibilite": true
+    },
+    {
+        "id": 10,
+        "nom": "Fruits rouges",
+        "prix": 16,
+        "description": "Amateur de fruits rouges ? Vous apprécierez certainement les doux arômes de fruits rouges et framboise dans votre tasse de thé. Une infusion légère et fruitée, agrémentée de 3,1g de fleurs de CBD naturelles pour vous permettre de profiter des bienfaits. À consommer à n'importe quel moment de la journée pour un effet relaxant et apaisant. Composée de baies roses, de framboises, de fleurs d'hibiscus et arômes naturels de fruits des bois, cette infusion vous emmène en immersion directe pour une balade au fond des bois, un panier de fruits rouges à la main ! Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqués en France.",
+        "image": "images/infusions/fruits-rouges.png",
+        "disponibilite": true
+    },
+    {
+        "id": 11,
+        "nom": "Pause détente",
+        "prix": 16,
+        "description": "Cette infusion à base de rooibos et fleurs de CBD naturelles est une véritable tisane plaisir. En effet, douce et gourmande, elle propose une agréable saveur de vanille en version naturelle et sans calorie. Ainsi, après une journée stressante, vous pourrez profiter de tous les effets détente de cette tisane pour vous relaxer et vous mettre en bonnes conditions pour une fin de journée apaisée. Une belle façon de profiter des effets du CBD avec une composition gustative naturellement sucrée à la stévia.",
+        "image": "images/infusions/pause-detente.png",
+        "disponibilite": true
+    },
+    {
+        "id": 12,
+        "nom": "Relax bio",
+        "prix": 16,
+        "description": "Besoin de calme et de sérénité ? Profitez de l'infusion Relax BIO aux douces saveurs fruitées et florales. Chaque tasse de cette infusion est une véritable invitation au voyage et à la méditation, à consommer aussi bien le matin qu'en journée ou à la tombée de la nuit. Profitez des effets relaxants et apaisants des fleurs de CBD naturelles dans une version à boire gustative, à consommer aussi bien chaude que froide en été. Le savant mélange d'arôme à base de pomme, de pêche, de grenade, ou encore d'épices et de fleurs ravira vos papilles pour une expérience calmante et zen.",
+        "image": "images/infusions/relax.png",
+        "disponibilite": true
+    },
+    {
+        "id": 13,
+        "nom": "Ventre plat",
+        "prix": 16,
+        "description": "L'infusion ventre plat est une délicieuse infusion drainante. Elle possède un parfum de cerise très agréable, et un goût irrésistible, qui vous séduira à coup sûr, que vous soyez ou non amateur de thé. Le thé vert possède de nombreuses vertus pour l'organisme, et permet notamment d'éliminer le surplus d'eau dans l'organisme, en améliorant le drainage urinaire. De plus, le thé vert est riche en catéchine, qui contribue au déstockage des graisses, et en EGCG qui est un antioxydant puissant permettant de lutter contre les effets du stress oxydatif.",
+        "image": "images/infusions/ventre-plat.png",
+        "disponibilite": true
+    },
+    {
+        "id": 14,
+        "nom": "Infusion de Noël",
+        "prix": 16,
+        "description": "La saison d'hiver et des fêtes de Noël est enfin lancée, et si comme nous, vous avez cette petite lumière dans les yeux lorsqu'on vous parle de Noël, que l'air de Jingle Bells résonne dans votre tête, vous serez forcément séduit par l'infusion de Noël. Cette tisane mettra tous vos sens en éveil, déjà à l'ouverture du paquet avec sa divine odeur d'agrumes et d'épices. En dégustation, vous profiterez des arômes à la fois fruités, épicés et citronnés. Un véritable infusion douceur, idéale pour les fraîches journées et soirées d'hiver, à consommer bien installé, au chaud, au coin d'un feu. L'infusion de Noël est un cadeau à boire à base de fleurs de CBD, de rooibos, d'épices et d'agrumes savamment mélangés pour une dégustation apaisante et chaleureuse. Une chouette idée cadeau pour les amateurs de thés, ou ceux qui veulent s'initier au CBD en douceur. Toutes nos infusions et thés sont certifiés agriculture biologique et fabriqués en France.",
+        "image": "images/infusions/infunoel.png",
+        "disponibilite": true
+    }
+]

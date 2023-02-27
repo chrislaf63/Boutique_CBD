@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nom": "Résine Népal",
+        "prix": 12,
+        "description": " La résine Népal est une nouveauté CBD Shop France. Elle est la seule résine sur le marché composée à 70% pollen et 30% de wax. Une qualité irréprochable qui vous emmènera en direction d'un voyage bien-être ! Cette résine de haute qualité est proposée au gramme. Sa texture collante reste agréable et facile à manipuler. Vous apprécierez sa teneur en CBD qui vous permettra de profiter des effets relaxants et apaisants du CBD rapidement.",
+        "image": "images/resines/nepal.png",
+        "disponibilite": false
+    },
+    {
+        "id": 2,
+        "nom": "Résine CBG",
+        "prix": 12,
+        "description": "Extrêmement relaxante, cette résine possède une odeur fruitée et citronnée, et un goût agréable. Elle vous séduira par sa haute qualité, sa texture agréable et facile à manipuler, bien qu'un peu collante.",
+        "image": "images/resines/resine-cbg.png",
+        "disponibilite": true
+    },
+    {
+        "id": 3,
+        "nom": "3x filtrée",
+        "prix": 10,
+        "description": "La résine 3 x filtrée est une résine de CBD issue de fleurs indoor naturelles, non abaissées au solvant, sans terpène et sans cristaux chimiques. Ce produit est obtenu à partir d'une extraction à froid, après un triple filtrage pour obtenir un produit d'un pureté inégalée. Le pressage permet ensuite d'obtenir un produit qui prend la forme de plaquettes fines, dures et cassantes, très poudreuses. Vous appréciez les senteurs très citronnées ? Vous adorerez ce produit aux taux exceptionnels de 57% de CBD et 12% de CBG ! Effrité, le produit prend la forme d'une poudre que vous pourrez utiliser à votre convenance. À noter que ce produit est 3 fois plus concentré qu'une résine classique, et qu'il convient donc d'en mettre 3 fois mois dans vos préparations ! ",
+        "image": "images/resines/3filtree.png",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Résine double zéro",
+        "prix": 10,
+        "description": "La résine Double Zéro est une résine de CBD très qualitative obtenues à partir d'une variété de fleur indoor 100% naturelle, non abaissées au solvant, sans terpène et sans cristaux chimiques. Vous apprécierez la Double Zéro pour ses senteurs très agréables. Elle dégage des odeurs tropicales, légèrement fruitées, avec quelques notes kush. Un produit vraiment intéressant, avec un taux de CBD à 26% et un taux de CBG à 8%. De plus, elle possède une texture agréable, plutôt malléable.",
+        "image": "images/resines/doublezero.png",
+        "disponibilite": true
+    },
+    {
+        "id": 5,
+        "nom": "Hash Amnésia",
+        "prix": 10,
+        "description": "La résine CBD HASH - Amnesia est une résine de CBD très qualitative obtenue à partir d'une variété de fleur indoor AMNESIA 100% naturelle, non abaissée au solvant, sans terpène et sans cristaux chimiques. Vous apprécierez ce produit vraiment intéressant, avec un taux de CBD à 28% et un taux de CBG à 6%. Cette résine possède un goût puissant, et des senteurs développées aux notes fruitées.",
+        "image": "images/resines/ramnesia.png",
+        "disponibilite": false
+    },
+    {
+        "id": 6,
+        "nom": "Superpollen CBD",
+        "prix": 10,
+        "description": "Notre Pollen Full CBD est obtenu à la suite d'un battage à sec permettant de séparer les trichromes (glandes où se trouvent les cannabinoïdes) de la matière végétale en utilisant les fleurs directement. Proposé en format 2g, notre Pollen Full CBD est d'une qualité exceptionnelle. Vous serez séduit par ses effets puissants et ses arômes prononcés, à déguster en infusion, à mélanger à votre wax, résine, ou dans vos préparations culinaires. Nos produits CBD Shop France sont garantis sans terpènes synthétiques et sans cristaux de CBD, les taux de CBD annoncés et les arômes sont 100% naturels. ",
+        "image": "images/resines/superpollen-cbd.png",
+        "disponibilite": true
+    },
+    {
+        "id": 7,
+        "nom": "Superpollen CBG",
+        "prix": 10,
+        "description": "Notre Pollen Full CBG est obtenu à la suite d'un battage à sec permettant de séparer les trichromes (glandes où se trouvent les cannabinoïdes) de la matière végétale en utilisant les fleurs directement. Proposé en format 2g, notre Pollen Full CBG est d'une qualité exceptionnelle. Vous serez séduit par ses effets puissants et ses arômes prononcés, à déguster en infusion ou dans vos préparations culinaires. Nos produits CBD Shop France sont garantis sans terpènes synthétiques et sans cristaux de CBD, les taux de CBD annoncés et les arômes sont 100% naturels.",
+        "image": "images/resines/superpollen-cbg.png",
+        "disponibilite": true
+    }
+]

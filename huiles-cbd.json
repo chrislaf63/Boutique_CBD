@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nom": "Huile CBD 5% Spectrof",
+        "prix": 36,
+        "description": "Notre huile CBD Spectrof est une huile de haute qualité grâce à son extraction CO2 sans utilisation de produit chimique. Cette formule Full Spectrum est obtenue à partir d'extrait de chanvre variété Sativa L. autorisée et contient 500mg de CBD par flacon. Chaque flacon de 10ml contient environ 200 gouttes, soit 2,5mg de CBD par goutte. Cette huile est proposée sans OGM, certifiée GMP et bio. À noter cependant qu'elle contient un taux de THC inférieur à 0,2%. Elle n'est donc pas garantie sans trace de THC car dépourvue de la microfiltration permettant de retirer la quasi totalité de la molécule.",
+        "image": "images/huiles/spectrof-5.png",
+        "disponibilite": true
+    },
+    {
+        "id": 2,
+        "nom": "Huile CBD 10% Spectrof",
+        "prix": 50,
+        "description": "Notre huile CBD Spectrof est une huile de haute qualité grâce à son extraction CO2 sans utilisation de produit chimique. Cette formule Full Spectrum est obtenue à partir d'extrait de chanvre variété Sativa L. autorisée et contient 1000mg de CBD par flacon. Chaque flacon de 10ml contient environ 200 gouttes, soit 5mg de CBD par goutte. Cette huile est proposée sans OGM, certifiée GMP et bio. À noter cependant qu'elle contient un taux de THC inférieur à 0,2%. Elle n'est donc pas garantie sans trace de THC car dépourvue de la microfiltration permettant de retirer la quasi totalité de la molécule.",
+        "image": "images/huiles/spectrof-10.png",
+        "disponibilite": false
+    },
+    {
+        "id": 3,
+        "nom": "Huile CBD 20% Spectrof",
+        "prix": 93,
+        "description": "Notre huile CBD Spectrof est une huile de haute qualité grâce à son extraction CO2 sans utilisation de produit chimique. Cette formule Full Spectrum est obtenue à partir d'extrait de chanvre variété Sativa L. autorisée et contient 2000mg de CBD par flacon. Chaque flacon de 10ml contient environ 200 gouttes, soit 10mg de CBD par goutte. Cette huile est proposée sans OGM, certifiée GMP et bio. À noter cependant qu'elle contient un taux de THC inférieur à 0,2%. Elle n'est donc pas garantie sans trace de THC.",
+        "image": "images/huiles/spectrof-20.png",
+        "disponibilite": true
+    },
+    {
+        "id": 4,
+        "nom": "Huile CBD 30% Spectrof",
+        "prix": 108,
+        "description": "Notre huile CBD Spectrof est une huile de haute qualité grâce à son extraction CO2 sans utilisation de produit chimique. Cette formule Full Spectrum est obtenue à partir d'extrait de chanvre variété Sativa L. autorisée et contient 3000mg de CBD par flacon. Chaque flacon de 10ml contient environ 200 gouttes, soit 12,5mg de CBD par goutte. Cette huile est proposée sans OGM, certifiée GMP et bio. À noter cependant qu'elle contient un taux de THC inférieur à 0,2%. Elle n'est donc pas garantie sans trace de THC car dépourvue de la microfiltration permettant de retirer la quasi totalité de la molécule.",
+        "image": "images/huiles/spectrof-30.png",
+        "disponibilite": true
+    },
+    {
+        "id": 5,
+        "nom": "Huile CBD Animaux - Saumon 3% CBD",
+        "prix": 25,
+        "description": "L'Huile de CBD 3% au saumon pour animaux est une huile de cannabidiol, sans THC et exempte d'ingrédients synthétiques. Elle contient un extrait large spectre à 300 mg ainsi que d'huile de noix de coco BIO. Sa concentration élevée aide à soutenir la mobilité, les articulations et le bien-être des animaux. Avec cette huile goût saumon dotée de propriétés thérapeutiques intenses, vous pouvez réduire les douleurs musculaires et articulaires chez les animaux domestiques tout en apaisant leurs angoisses. Sa formule 10 ml offre un dosage facile et optimisé pour tous types de compagnons à fourrure. Fabriquée à partir des meilleures variétés de chanvres européennes certifiées BIO, cette huile ne contient aucun pesticide ou toxine susceptible de nuire aux animaux domestiques.",
+        "image": "images/huiles/spectrof-3.png",
+        "disponibilite": true
+    },
+    {
+        "id": 6,
+        "nom": "Huile de Capone CBG 5% et CBD 2.5%",
+        "prix": 45,
+        "description": "Cette huile Full Spectrum 100% naturelle vient compléter notre gamme avec une composition clean, sans aucun cristaux chimique. Composée uniquement d'huile de coco MCT et d'extrait naturel de chanvre, elle possède une concentration intéressante en CBG 5% et CBD 2,5%. De plus elle est proposée dans un flacon totalement opaque pour ne laisser passer aucun UV solaire, et permettre de ne pas dégrader les cannabinoïdes. De quoi profiter de ses effets 100% relaxants, en utilisation sublinguale ou à intégrer dans votre alimentation ou dans vos boissons favorites.",
+        "image": "images/huiles/huile-cbg.png",
+        "disponibilite": true
+    },
+    {
+        "id": 7,
+        "nom": "Gélules 1500mg CBD Spectre Complet",
+        "prix": 49,
+        "description": "Vous apprécierez ce produit élaboré à partir de notre célèbre CBD Full Spectrum, réputé pour sa concentration élevée en cannabinoïdes! 100% vegan et naturel. Nos gélules sont disponibles en boîte de 30 avec 50mg CBD et cannabinoïdes secondaires par gélule. Proposées sans goût, ces gélules sont faciles à avaler et conçues pour être directement assimilable par le corps. Vendu en pot de 30 gélules ",
+        "image": "images/huiles/gelules-cbd.png",
+        "disponibilite": true
+    },
+    {
+        "id": 8,
+        "nom": "Gélules 'Or Noir' 1500mg CBG Spectre Complet",
+        "prix": 59,
+        "description": "Découvrez nos gélules SPECTROF \"Or noir\" CBG 1500mg en version Spectre Complet Vous apprécierez ce produit élaboré à partir de ce qu'on appelle l'Or Noir, une huile de CBG Full Spectrum. Ces gélules sont élaborées à partir de notre Huile CBG full spectre 'Or Noir' sur une base de farine de chanvre biologique. 100% végan et naturelles, nos gélules sont disponibles en boîte de 30 avec 50mg CBG et cannabinoïdes secondaires par gélule. Elles sont sans goût, faciles à avaler et conçues pour être directement assimilable par le corps. Leur composition à base d'huile CBG full spectre font d'elles les plus puissantes de notre gamme. ",
+        "image": "images/huiles/gelules-cbg.png",
+        "disponibilite": true
+    },
+    {
+        "id": 9,
+        "nom": "WAX 60% FULL SPECTRUM 1ml",
+        "prix": 70,
+        "description": "Cette cire full spectrum est un produit à base de CBD ultra concentré. Elle est composée uniquement d'extrait pur de fleur de chanvre qui contient naturellement 60% de CBD. La qualité FULL SPECTRUM contient naturellement toutes les molécules cannabinoïdes. Cette extraction est très dense et n'est mélangée à aucun autre produit.",
+        "image": "images/huiles/wax.png",
+        "disponibilite": true
+    }
+]
